@@ -12,7 +12,7 @@ A modern and responsive Expense Tracker Web Application built with React that he
 🔔 Toast notifications for user actions
 📱 Fully responsive and modern UI
 🛠️ Tech Stack
-Frontend: React, JavaScript, HTML, CSS
-State Management: React Hooks (useState, useEffect, useMemo)
-Charts: Recharts
-Storage: Browser localStorage
+#Frontend: React, JavaScript, HTML, CSS
+#State Management: React Hooks (useState, useEffect, useMemo)
+#Charts: Recharts
+#Storage: Browser localStorage
